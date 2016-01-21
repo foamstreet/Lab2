@@ -11,6 +11,7 @@ public class Test {
         for(int i = 0; i < name.length(); i++){
         	System.out.println(name);
         }
+        System.out.println(10*100 + (200));
     }
 
 }
